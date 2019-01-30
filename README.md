@@ -2,6 +2,9 @@
 ## Info
 Started Jan 30, 2019. Attempt at making an AI for Pokemon Showdown.
 
+## Process
+[Flowchart](https://drive.google.com/file/d/1lKlAXX6oTKvsP-u4UJKKDgsfQPQOcvCj/view?usp=sharing)
+
 ## Resources
 [Pokemon RESTful API](https://pokeapi.co/)
 
