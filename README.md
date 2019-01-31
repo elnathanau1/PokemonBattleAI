@@ -2,6 +2,12 @@
 ## Info
 Started Jan 30, 2019. Attempt at making an AI for Pokemon Showdown.
 
+## Installation
+Pillow (ImageGrab)
+```
+pip3 install Pillow
+```
+
 ## Process
 [Flowchart](https://drive.google.com/file/d/1lKlAXX6oTKvsP-u4UJKKDgsfQPQOcvCj/view?usp=sharing)
 
