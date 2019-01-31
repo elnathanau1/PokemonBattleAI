@@ -14,6 +14,8 @@ Started Jan 30, 2019. Attempt at making an AI for Pokemon Showdown.
 
 [pyscreenshot](https://pypi.org/project/pyscreenshot/)
 
+[ImageGrab](https://pillow.readthedocs.io/en/3.0.x/reference/ImageGrab.html)
+
 [SimpleCV](http://simplecv.org/)
 
 [Pokemon Type Chart JSON](https://github.com/filipekiss/pokemon-type-chart/blob/master/types.json)
