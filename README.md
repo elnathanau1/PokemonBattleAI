@@ -17,9 +17,21 @@ chmod +x run.sh
 ## Package Installation
 Pyscreenshot
 ```
-pip3 install pyscreenshot
+pip install pyscreenshot
 ```
 
+PyAutoGUI
+```
+pip install pyobjc-core
+pip install pyobjc
+pip install pyautogui
+```
+
+Tesseract OCR (will take some time to download)
+```
+brew install tesseract
+pip install pytesseract
+```
 ## Process
 [Flowchart](https://drive.google.com/file/d/1lKlAXX6oTKvsP-u4UJKKDgsfQPQOcvCj/view?usp=sharing)
 
@@ -31,6 +43,8 @@ pip3 install pyscreenshot
 [Damage Calculator Direct API](https://calc-api.herokuapp.com/calc-api)
 
 [pyscreenshot](https://pypi.org/project/pyscreenshot/)
+
+[pyautogui](https://pyautogui.readthedocs.io/en/latest/cheatsheet.html)
 
 [ImageGrab](https://pillow.readthedocs.io/en/3.0.x/reference/ImageGrab.html)
 
