@@ -9,6 +9,11 @@ chmod +x install_dependencies.sh
 chmod +x run.sh
 ```
 
+## Run
+```
+./run.sh
+```
+
 ## Package Installation
 Pyscreenshot
 ```
