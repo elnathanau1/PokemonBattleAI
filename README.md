@@ -2,10 +2,17 @@
 ## Info
 Started Jan 30, 2019. Attempt at making an AI for Pokemon Showdown.
 
-## Installation
-Pillow (ImageGrab)
+## Set up
+Give the computer access to run our shell scripts to install required dependencies and run program.
 ```
-pip3 install Pillow
+chmod +x install_dependencies.sh
+chmod +x run.sh
+```
+
+## Package Installation
+Pyscreenshot
+```
+pip3 install pyscreenshot
 ```
 
 ## Process
